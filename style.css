@@ -1,0 +1,42 @@
+/**css styles**/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+#cat1 {
+    background-color: lightblue;
+    text-align: center;
+}
+
+.cat2,
+.cat3,
+.cat4,
+.cat5 {
+    background-color: pink;
+}
+
+.container li {
+    background-color: yellowgreen;
+}
+
+.cat10 li {
+    background-color: yellowgreen;
+}
+
+.cat11 {
+    background-color: lightblue;
+}
+
+.cat12 {
+    background-color: red;
+}
+
+.cat2,
+.cat5 {
+    text-align: center;
+}
