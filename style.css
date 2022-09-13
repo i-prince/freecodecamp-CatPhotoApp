@@ -4,8 +4,16 @@
 }
 
 img {
-    height: auto;
+    height: 500px;
     width: 500px;
+    border: 20px;
+    border-color:solid red;
+    margin-left: 375px;
+    padding: 43px;
+}
+
+a {
+    display: block;
 }
 
 #cat1 {
